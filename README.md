@@ -1,7 +1,10 @@
 # LG-Meeting-Transcript-Summarization
-## AI Based Meeting Transcript Summarization Competition (35/655)
-## Date : Oct 2021
-## Issued by : LG
+## Topic
+- AI Based Meeting Transcript Summarization Competition (35/655)
+## Date
+- Oct 2021
+## Issued by
+- LG
 
 - Constructed NLP Models based on BERT, RoBERTa, T5 with huggingface library
 - Utilized special tokens, manual encoder-decoder, long-former, and BERTSum
